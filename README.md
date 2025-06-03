@@ -72,5 +72,9 @@ This simple loading screen can be easily integrated into your web projects to pr
 
 Try a hard refresh (Ctrl+F5 or Cmd+Shift+R)
 
+## Contributing
+
+If you'd like to contribute to improving this website template, feel free to fork the repository (if applicable) and submit pull requests with your enhancements or bug fixes. Please ensure your code follows best practices and is well-documented.
+
 License
 MIT License - Free for personal and commercial use
